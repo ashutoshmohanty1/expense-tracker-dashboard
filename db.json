@@ -1,0 +1,26 @@
+{
+  "expenses": [
+    {
+      "expenseName": "Pizza",
+      "amount": "500",
+      "category": "Food",
+      "date": "2026-06-16",
+      "id": "-WZLJfWOvEw"
+    },
+    {
+      "expenseName": "Netflix",
+      "amount": "1000",
+      "category": "Bills",
+      "date": "2026-06-02",
+      "id": "4zgdcBYbNKw"
+    },
+    {
+      "expenseName": "Hyderabad",
+      "amount": "2000",
+      "category": "Travel",
+      "date": "2026-06-09",
+      "id": "sdK18qdRjx8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
